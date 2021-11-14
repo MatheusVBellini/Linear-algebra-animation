@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/test/1080p60/partial_movie_files/graphingTest/450974505_2868178547_3835440343.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/test/1080p60/partial_movie_files/graphingTest/34786186_422036719_3660497714.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/test/1080p60/partial_movie_files/graphingTest/34786186_2076695321_3794255748.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/test/1080p60/partial_movie_files/graphingTest/34786186_3493041802_1942794913.mp4'
