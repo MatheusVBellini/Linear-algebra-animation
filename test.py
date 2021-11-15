@@ -141,3 +141,30 @@ class graphingTest(Scene):
         self.play(dif.animate.set_value(0.01),rate_func = linear, run_time = 7)
         self.wait()
 
+class inverseMatrixTest(Scene):
+    def construct(self):
+
+        mat = Matrix([["a", "b", "c"],["d", "e", "f"],["g", "h", "i"]], 
+                left_bracket = "(",
+                right_bracket = ")"
+        )
+
+
+        bigmat = Matrix([["a", "b", "c", "|", 1, 0, 0],["d", "e", "f", "|", 0, 1, 0],["g", "h", "i", "|", 0, 0, 1]], 
+                left_bracket = "(",
+                right_bracket = ")"
+        )
+
+        #names = MathTex(r"A",r"I_3",r"A^(-1)")
+        #names[0].next_to(bigmat, UR, buff=0.25)
+        #names[1].next_to(bigmat, UR, buff=0.25)
+        #names[2].next_to(bigmat, UR, buff=0.25)
+
+        self.play(
+                Create(mat),
+        )
+        self.play(
+                FadeOut(mat),
+                FadeIn(bigmat)
+        )
+        self.wait()
