@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/480p15/partial_movie_files/trigonometrics/3163782288_2905332911_1471885242.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/480p15/partial_movie_files/trigonometrics/2201830969_1373176136_4123996080.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/480p15/partial_movie_files/trigonometrics/2201830969_2583988852_1837106149.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/480p15/partial_movie_files/trigonometrics/2201830969_2074837626_1837106149.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/480p15/partial_movie_files/trigonometrics/2201830969_3493041802_1126296198.mp4'

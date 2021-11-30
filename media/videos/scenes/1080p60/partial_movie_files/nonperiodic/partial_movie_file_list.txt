@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/1080p60/partial_movie_files/nonperiodic/450974505_791740047_1471885242.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/1080p60/partial_movie_files/nonperiodic/34786186_3459002737_2365357253.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/1080p60/partial_movie_files/nonperiodic/34786186_77649035_2754386262.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/1080p60/partial_movie_files/nonperiodic/34786186_2599895655_2349193428.mp4'
+file 'file:/home/matheus/Desktop/Linear_algebra_animation/media/videos/scenes/1080p60/partial_movie_files/nonperiodic/34786186_3493041802_2531292138.mp4'
